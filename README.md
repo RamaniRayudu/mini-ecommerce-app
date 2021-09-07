@@ -15,5 +15,9 @@
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### Build the project for production.
+## Build the project for production.
 ```npm run build```
+
+## Output Screenshots
+<img src="https://github.com/RamaniRayudu/mini-ecommerce-app/blob/master/public/images/desktop.png"/>
+<img src="https://github.com/RamaniRayudu/mini-ecommerce-app/blob/master/public/images/mobile.png"/>

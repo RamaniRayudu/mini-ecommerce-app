@@ -8,25 +8,20 @@ body{
   text-align: center;
 }
 
-.Maindiv{
-    /* width:900px; */
-    /* height: 600px; */
-    /* border: 5px solid black; */
-    /* margin: auto; */
-}
-
 .heading{
   text-align: center;
   font-family: cursive;
+  margin:30px;
 }
 .our{
   color: dodgerblue;
 }
 .store{
-  color: orangered;
+  color: tomato;
 }
 .but{
-  border-color:orangered;
+  border-color:tomato;
+  border-radius:5px;
 }
 .btn {
   background-color: white;
@@ -39,7 +34,7 @@ body{
   font-family: cursive;
 }
 .search{
-  border: 2px solid orangered;
+  border: 2px solid tomato;
   border-radius: 5px;
   padding: 10px;
   margin: 5px;
@@ -85,5 +80,12 @@ body{
   }
   .item{
     width:90%;
+  }
+  .heading{
+    margin: 10px;
+    font-size: 28px;
+  }
+  .btn{
+    width:160px;
   }
 }

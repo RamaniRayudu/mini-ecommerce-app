@@ -23,7 +23,7 @@ export default function Bakery (){
                 <input type="text" placeholder="Search Item" className="search" size="57" value={searchText} onChange={(e)=>setSearchText(e.target.value)}/> 
                 <div className="items">
                     {items.filter(item =>{
-                        if(catSearch==="all"){  use enti adhi?exam online konni companies and accenture ki kuda eok
+                        if(catSearch==="all"){ 
                             return item
                         }
                         else{
