@@ -19,5 +19,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ```npm run build```
 
 ## Output Screenshots
-<img src="https://github.com/RamaniRayudu/mini-ecommerce-app/blob/master/public/images/desktop.png" width="400"/>
-<img src="https://github.com/RamaniRayudu/mini-ecommerce-app/blob/master/public/images/mobile.png" width="480" height="360"/>
+
+### Desktop View
+<img src="https://github.com/RamaniRayudu/mini-ecommerce-app/blob/master/public/images/desktop.png"/>
+
+### Mobile View
+<img src="https://github.com/RamaniRayudu/mini-ecommerce-app/blob/master/public/images/mobile.png" width="250" height="400"/>
